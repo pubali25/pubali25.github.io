@@ -1,0 +1,60 @@
+body {
+    background-color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    padding: 30px;
+    font-family: sans-serif;
+    font-size: xx-large;
+    color: Black;
+    background-image: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c)
+}
+
+h4 {
+    text-align: left;
+    font-family: Verdana;
+    color: black;
+    text-decoration: underline;
+    margin: 10;
+    padding: 0;
+}
+
+li {
+    text-align: left;
+    padding: 5px;
+    font-size: large;
+    font-family: Verdana;
+    color: black;
+}
+
+p {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    padding: 40px;
+    display: block;
+}
+
+a {
+    text-align: center;
+    padding: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: blue;
+}
+
+img {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
